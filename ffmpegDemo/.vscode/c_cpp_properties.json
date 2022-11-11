@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/feng/VScodeProjects/ffmpeg4.4.2_build_x86/include"
+            ],
+            "browse": {
+                "path": [
+                    "${workspaceRoot}",
+                    "/home/feng/VScodeProjects/ffmpeg4.4.2_build_x86/lib"
+                ]
+            },
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
